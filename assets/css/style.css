@@ -11,7 +11,7 @@ body {
 }
 body header nav ul {
   display: flex;
-  padding: 5vh 2%;
+  padding: 3vh 3rem;
   list-style: none;
 }
 body header nav ul img {
